@@ -1,0 +1,1 @@
+# poking around Neural Net in go
